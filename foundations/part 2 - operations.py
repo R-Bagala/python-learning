@@ -9,7 +9,7 @@ is_married = False
 is_true = True
 is_light_on = True
 
-is_happy, is_fulfilled, emotional_state = False, False, "Still hanging on to dear life"
+is_happy, is_fulfilled, emotional_state = True, True, "Super Happy"
 
 print(type(first_name), type(last_name), type(full_name), type(country), type(city), type(age), type(year), type(is_married), type(is_true), type(is_light_on))
 print(type(is_happy), type(is_fulfilled), type(emotional_state))
