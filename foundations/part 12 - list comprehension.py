@@ -13,7 +13,7 @@ power = lambda a: a**2
 print(power(2))
 
 full_name = lambda a,b: a+b
-print(full_name("Raphael", "Bagala"))
+print(full_name("Rob", "Tom"))
 
 #excercises for day 13
 
