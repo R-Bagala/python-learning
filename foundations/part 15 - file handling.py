@@ -10,7 +10,7 @@
 
 
 #use forward slash not backslash
-f = open("C:/Users/bagal/OneDrive/Personal projects/Python/30 days of python/day 3 excercises.txt")
+f = open("C: 3 excercises.txt")
 text = f.read()#.splitlines() #reads the document itself. Splitlines does the same as readlines().
 first_line = f.readline() #reads the first line
 long_line = f.readlines()
